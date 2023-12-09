@@ -67,3 +67,12 @@ footer {
     border-bottom-style: groove;
     border-top-style: groove;
 }
+@media screen and (max-width: 954px){
+    .container_one {
+        text-align: center;
+        background-color: black;
+        border-radius: 8px;
+        width: 70%;
+        height: 60vh;
+    }
+}
